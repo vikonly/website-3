@@ -1,0 +1,23 @@
+.preamble{
+    float: left;
+    width: 70%;
+    padding: 3em 0.5em 5em 0;
+    float: left;
+    width: 70%;
+    padding: 3em 0.5em 5em 0;
+    background: radial-gradient(ellipse at center, rgba(255, 204, 102,1) 0%,rgba(255, 204, 102,0.4) 100%);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+    position: relative;
+    float: left;
+    width: 70%;
+    padding: 3em 0.5em 5em 0;
+    float: left;
+    width: 70%;
+    padding: 3em 0.5em 5em 0;
+    background: radial-gradient(ellipse at center, rgba(255, 204, 102,1) 0%,rgba(255, 204, 102,0.4) 100%);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;   
